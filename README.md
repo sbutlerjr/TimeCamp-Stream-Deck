@@ -14,7 +14,7 @@ Download the timecamp_timer_start.ps1 and timecamp_timer_stop.ps1 files and plac
 
 ## Usage
 
-In Stream Deck, setup a Multi-Action Switch button. Use a System Open command. In the file/action use this to start the timer, replacing <task-id> with the project/task you want to start:
+In Stream Deck, setup a Multi-Action Switch button. Use a System Open command. In the file/action use this to start the timer, replacing `<task-id>` with the project/task you want to start:
 
 ```bash
 powershell -ExecutionPolicy ByPass -WindowStyle Hidden -File  C:\TimeCamp-Stream-Deck\timecamp_timer_start.ps1 <task-id>
