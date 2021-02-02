@@ -1,6 +1,6 @@
 # Time Camp Stream Deck Scripts
 
-Includes scripts to start and stop time camp timers for your projects/tasks, currently Windows only.  They can be setup as "Multi-Action Switch" buttons on your stream deck to start and stop timers.
+Includes scripts to start and stop [Time Camp](https://www.timecamp.com/) timers for your projects/tasks with the [Stream Deck](https://www.elgato.com/en/gaming/stream-deck), currently Windows only.  They can be setup as "Multi-Action Switch" buttons on your stream deck to start and stop timers.
 In my personal setup, I have each project I track time against as its own button, making it easy to start/stop tracking against each Time Camp project.
 
 ## Installation
