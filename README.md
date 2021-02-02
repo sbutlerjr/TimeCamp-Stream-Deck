@@ -5,11 +5,15 @@ In my personal setup, I have each project I track time against as its own button
 
 ## Installation
 
-Download the timecamp_timer_start.ps1 and timecamp_timer_stop.ps1 files and place them in a folder on your local computer, for this example, we'll assume you've installed them in: 
-
+Download the timecamp_timer_start.ps1 and timecamp_timer_stop.ps1 files and place them in a folder on your local computer, for this example, we'll assume you've installed them in the location below.  
 
 ```bash
  C:\TimeCamp-Stream-Deck\
+```
+
+Edit both files and change `<YOUR_TOKEN>` to your Time Camp token:
+```powershell
+$token = "<YOUR_TOKEN>"
 ```
 
 ## Usage
